@@ -1,7 +1,5 @@
 # Mock Project using Kit S32K144
 
-A short description of your project.
-
 ## Description
 
 Here are all the exercises I have practiced on the S32K144 kit
@@ -15,7 +13,6 @@ Here are all the exercises I have practiced on the S32K144 kit
 - [Exercise Requirements](#exercise-requirements)
   - [main.c](#mainc-exercise-requirements)
   - [miniproject.c](#miniprojectc-exercise-requirements)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
